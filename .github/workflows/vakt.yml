@@ -13,4 +13,4 @@ jobs:
       - run: python3 vakt.py
         env:
           NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
-          PRO_MAKSPRIS: "7000"
+          PRO_MAKSPRIS: "8500"
